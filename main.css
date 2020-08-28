@@ -1,0 +1,40 @@
+div, html, body, h1, h2, p {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+body .body {
+    Background-image: url(images.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 900px;
+}
+body {
+    background-color: #0c0463;
+}
+h1 {
+    padding-top: 50px;
+    text-align: center;
+    color: #98f5ed;
+}
+h2 {
+    text-align: center;
+    color: #98f5ed;
+}
+a {
+    color: #98f5ed;
+text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    color: white;
+}
+h2 .contactlink {
+    text-decoration: underline;
+}
+p {
+    text-align: center;
+}
+.bottom-div {
+    margin-top: 755px; 
+}
